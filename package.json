@@ -1,5 +1,5 @@
 {
-  "name": "draw-cat",
+  "name": "draw-cat-spendersq",
   "version": "1.0.1",
   "description": "Show cat in bash spendersQ",
   "main": "src/index.js",
